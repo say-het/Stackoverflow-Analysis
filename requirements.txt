@@ -3,5 +3,3 @@ pandas
 plotly
 functions
 scipy
-numpy
-re
