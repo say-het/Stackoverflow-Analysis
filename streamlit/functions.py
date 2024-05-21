@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
-from scipy.stats import norm
+# from scipy.stats import norm
 import random
 from scipy.stats import norm
 import re
