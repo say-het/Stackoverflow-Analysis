@@ -2,7 +2,7 @@ streamlit
 pandas
 plotly
 functions
-scipy.stats
+scipy
 main_analysis
 numpy
 re
