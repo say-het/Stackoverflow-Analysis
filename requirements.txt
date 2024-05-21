@@ -3,6 +3,5 @@ pandas
 plotly
 functions
 scipy
-main_analysis
 numpy
 re
